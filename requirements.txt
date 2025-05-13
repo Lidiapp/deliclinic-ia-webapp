@@ -1,0 +1,8 @@
+flask
+openai
+requests
+python-dotenv
+PyMuPDF
+faiss-cpu
+sentence-transformers
+whisper
