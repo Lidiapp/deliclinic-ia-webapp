@@ -1,1 +1,6 @@
-
+src/ 
+App.jsx
+components/ui/
+ChatBox.jsx
+FileUpload.jsx
+AvatarIA.jsx
